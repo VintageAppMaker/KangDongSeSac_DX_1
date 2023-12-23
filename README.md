@@ -1,2 +1,3 @@
-# ProjectExample
-github project 예제와 연동하는 레포지토리
+# 강동새싹 DX 1
+> 디지털전환 강의요약 및 미션자료
+
