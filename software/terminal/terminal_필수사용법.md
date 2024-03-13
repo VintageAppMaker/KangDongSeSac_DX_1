@@ -119,7 +119,7 @@ git pull
 
 #### 6.3 github의 repository와 충돌
 종종 github에서 직접 수정하고, pc에서 수정하여 push와 pull에서 충돌이 나는 경우가 발생한다. 
-이 때 자이 git 초보 사용자로 판단된다면 
+이 때 자신이 git 초보 사용자로 판단된다면 
 1. github을 최우선으로 생각한다. 
 2. pc의 내용을 삭제한다. 
 3. git clone [github 주소.git]을 하며 github의 내용을 pc로 가져온다. 
