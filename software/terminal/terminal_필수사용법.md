@@ -61,7 +61,7 @@ cd 절대경로
 ```
 
 
-### 4. 삭제(Change Directory)
+### 4. 삭제
 > macOS: rm 파일명[폴더명]
 > windows:
 >   del 파일명 
@@ -80,7 +80,7 @@ rm -rf 폴더명
 rmdir /s 폴더명
 ```
 
-### 5. 복사(Change Directory)
+### 5. 복사
 > cp 원본파일명 타겟파일명 을 통해서 파일을 복사할 수 있다. 
 
 다음은 현재 폴더의 a.txt를 하위 폴더 text에 들어가는 b.txt로 복사하는 예제이다. 
