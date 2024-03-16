@@ -107,16 +107,22 @@ cp a.txt text/b.txt
 ```bash
 git add .
 git commit -a -m "커밋할 때 기록할 메시지"
+git pull
 git push
 ```
+
+위에서 push하기 전에 commit 후, pull 하는 이유는 **merge시 충돌의 빈도수를 줄이기** 위함이다. 
 
 #### 6.2 github의 repository 정보를 pc에 저장하기 
 > .git이 있는 폴더로 이동한다. 그리고 아래와 같은 커맨드를 입력한다. 
 
 ```bash
+git add .
+git commit -a -m "커밋할 때 기록할 메시지"
 git pull
 ```
 
+위에서 pull하기 전에 commit하는 이유는 **merge시 충돌의 빈도수를 줄이기** 위함이다. 
 #### 6.3 github의 repository와 충돌
 종종 github에서 직접 수정하고, pc에서 수정하여 push와 pull에서 충돌이 나는 경우가 발생한다. 
 이 때 자신이 git 초보 사용자로 판단된다면 
