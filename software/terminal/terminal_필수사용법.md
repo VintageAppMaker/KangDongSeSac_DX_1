@@ -7,6 +7,8 @@
 
 이 문서에서는 **Linux, macOS, Windows와 호환이 될 수 있도록 "터미널 기준(윈도우)"으로 기초 명령어**를 다룬다. 
 
+윈도우 **사용자라면 [Store에서 터미널을 설치를 강권](https://apps.microsoft.com/detail/9n0dx20hk701?activetab=pivot%3Aoverviewtab&hl=ko-kr&gl=KR)**한다. 도스 프롬프트보다 강력한 기능을 제공하기 때문이다.  
+
 ### 1. 실행 & 현재경로 
 > 윈도우에서는 윈도우 키를 누르고 "터미널". macOS에서는 cmd + space를 누르고 "터미널"을 입력하면 실행가능하다. 그러나 특정 폴더(디렉토리)에서부터 빠르게 시작하고자 한다면 Finder나 탐색기의 메뉴를 통해 바로 실행할 수도 있다. 
 
